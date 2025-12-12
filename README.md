@@ -84,7 +84,7 @@ My long-term vision: **Create an AI-powered global ecosystem that connects all u
 | 🔹 **SM News Agent** | AI-powered global news aggregator. |
 
 ---
-  *coming soon…* 
+
 ## 📬 Contact & Socials
 📧 Email: **shaafieshire@icloud.com**  
 🌍 Website: *coming soon…*  
