@@ -9,7 +9,7 @@
 <br />
 
 ## 👋 Who Am I?
-I'm **Shaafici Shire**, Founder of **UiThree Global**, a visionary developer who builds  
+I'm **Shaafici Shire**, Founder of **Coinfilt Ai-based**, and **UiThree Global**, a visionary developer who builds  
 cutting-edge solutions in:
 
 - ⚡ **AI & Automation Systems**
@@ -78,10 +78,10 @@ My long-term vision: **Create an AI-powered global ecosystem that connects all u
 ## 📂 Featured Projects
 | Project | Description |
 |--------|-------------|
-| 🔹 **Ui3Coin** | Blockchain-powered investment coin with real asset backing. |
+| 🔹 **Ui3Coin** | Blockchain-powered investment coin with real-World asset backing. |
 | 🔹 **USD3 Stablecoin** | Global stablecoin for GDC Visa & crypto utility. |
 | 🔹 **AI Crypto News Bot** | Autonomous bot with advanced NLP + revenue model. |
-| 🔹 **SomNews Agent** | AI-powered global news aggregator. |
+| 🔹 **SM News Agent** | AI-powered global news aggregator. |
 
 ---
   *coming soon…* 
