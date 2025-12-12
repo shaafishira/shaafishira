@@ -9,7 +9,7 @@
 <br />
 
 ## 👋 Who Am I?
-I'm **Shaafici Shire**, Founder of **Coinfilt Ai-based**, and **UiThree Global**, a visionary developer who builds  
+I'm **Shaafi Shira**, Founder of **Coinfilt Ai-based**, and **UiThree Global**, a visionary developer who builds  
 cutting-edge solutions in:
 
 - ⚡ **AI & Automation Systems**
