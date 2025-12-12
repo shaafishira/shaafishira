@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://chatgpt.com/s/m_693c01c2c8108191ae18f3abf9b20921" width="100%" />
+  <!-- <img src="https://chatgpt.com/s/m_693c01c2c8108191ae18f3abf9b20921" width="100%" /> -->
 </p>
 
 <h1 align="center">🌐 UITHREE GLOBAL</h1>
