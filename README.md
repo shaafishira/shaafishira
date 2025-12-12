@@ -86,10 +86,10 @@ My long-term vision: **Create an AI-powered global ecosystem that connects all u
 ---
   *coming soon…* 
 ## 📬 Contact & Socials
-📧 Email: **uithree@global.com**  
+📧 Email: **shaafieshire@icloud.com**  
 🌍 Website: *coming soon…*  
-🐦 Twitter / X: **@uithreeglobal**  
-📺 YouTube: **UiThree Academy**  
+🐦 Twitter / X: **@Shaafishira**  
+📺 YouTube: **coming soon…**  
 
 ---
 
