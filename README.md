@@ -86,7 +86,7 @@ My long-term vision: **Create an AI-powered global ecosystem that connects all u
 ---
 
 ## 📬 Contact & Socials
-📧 Email: **shaafieshire@icloud.com**  
+📧 Email: **shaafieshire@gmail.com**  
 🌍 Website: *coming soon…*  
 🐦 Twitter / X: **@Shaafishira**  
 📺 YouTube: **coming soon…**  
