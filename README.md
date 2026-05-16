@@ -9,28 +9,24 @@
 <br />
 
 ## 👋 Who Am I?
-I'm **Shaafi Shira**, Founder of **Coinfilt Ai-based**, and **UiThree Global**, a visionary developer who builds  
-cutting-edge solutions in:
+## 👋 Who Am I?
 
-- ⚡ **AI & Automation Systems**
-- 🌐 **Global SaaS Platforms**
-- 💰 **Crypto & Stablecoin Innovation**
-- 🧠 **Machine Learning Applications**
-- 🛠️ **Full-Stack Web Development**
+I’m Shaafici — someone deeply driven by the idea of building technology that feels simple for people, yet powerful behind the scenes.
 
-I’m passionate about creating technology that **connects, empowers, and scales globally**.
+My journey is centered around modern web experiences, AI-powered systems, digital business tools, and products designed to solve real-world problems in a practical way. I enjoy exploring how design, automation, and intelligent systems can work together to create smoother experiences for businesses and everyday users.
 
----
+Through Barwaaqso, I’m focused on learning, building, and shaping ideas that combine technology, creativity, and scalable digital solutions for the modern world.
 
-## 🚀 What I Do (Core Skills)
-- 🧩 Build **AI-powered applications** (Chatbots, Agents, ML Tools)  
-- 🌍 Develop **scalable SaaS platforms** end-to-end  
-- 💳 Create **crypto payment systems** & stablecoin utilities  
-- 🛡️ Integrate **secure backend infrastructures**  
-- 📱 Build modern, responsive **frontend systems**  
-- ⚙️ Automate workflows using **Python, JS & AI**  
-- 🔥 Experiment with new frameworks & 3D UI concepts  
-
+- 🤖 **AI-Powered Systems**
+- 🌐 **Modern SaaS Platforms**
+- ⚡ **Automation & Smart Workflows**
+- 🧠 **Machine Learning Exploration**
+- 💻 **Full-Stack Web Experiences**
+- 🚀 **Scalable Digital Products**
+- 📱 **Mobile-First Applications**
+- 🔒 **Secure & Intelligent Systems**
+- 🎨 **Modern UI/UX Interfaces**
+- ☁️ **Cloud-Based Technologies**
 ---
 
 ## 🧠 Tech Stack
@@ -64,26 +60,6 @@ I’m passionate about creating technology that **connects, empowers, and scales
 
 ---
 
-## 🎯 Vision
-**UITHREE GLOBAL** is built to shape the future of technology by combining:  
-✔ AI  
-✔ Blockchain  
-✔ Global web systems  
-✔ Intelligent platforms  
-
-My long-term vision: **Create an AI-powered global ecosystem that connects all users.**
-
----
-
-## 📂 Featured Projects
-| Project | Description |
-|--------|-------------|
-| 🔹 **Ui3Coin** | Blockchain-powered investment coin with real-World asset backing. |
-| 🔹 **USD3 Stablecoin** | Global stablecoin for GDC Visa & crypto utility. |
-| 🔹 **AI Crypto News Bot** | Autonomous bot with advanced NLP + revenue model. |
-| 🔹 **SM News Agent** | AI-powered global news aggregator. |
-
----
 
 ## 📬 Contact & Socials
 📧 Email: **shaafieshire@gmail.com**  
