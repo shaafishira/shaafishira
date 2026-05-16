@@ -29,7 +29,7 @@ Through Barwaaqso, I’m focused on learning, building, and shaping ideas that c
 
 ## 🧠 Tech Stack
 
-### 🔹 **Frontend**
+### 🔹 **💻 Frontend**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
@@ -37,16 +37,16 @@ Through Barwaaqso, I’m focused on learning, building, and shaping ideas that c
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![NextJS](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 
-### 🔹 **Backend**
+### 🔹 **⚙️ Backend**
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-### 🔹 **Databases**
+### 🔹 **🗄️ Databases**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-0B5394?style=flat&logo=mysql&logoColor=white)
 
-### 🔹 **AI & ML**
+### 🔹 **🤖 AI & Developer Tools**
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
