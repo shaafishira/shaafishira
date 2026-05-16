@@ -45,9 +45,14 @@ Through Barwaaqso, I’m focused on learning, building, and shaping ideas that c
 ![MySQL](https://img.shields.io/badge/MySQL-0B5394?style=flat&logo=mysql&logoColor=white)
 
 ### 🔹 **AI & ML**
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![SciKit](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![V0](https://img.shields.io/badge/V0-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Replit AI](https://img.shields.io/badge/Replit_AI-F26207?style=for-the-badge&logo=replit&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### 🔹 **Tools**
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
