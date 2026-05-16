@@ -66,6 +66,6 @@ Through Barwaaqso, I’m focused on learning, building, and shaping ideas that c
 ---
 
 <p align="center">
-  <b>“Building the Global AI Future.”</b><br />
-  — UITHREE GLOBAL
+  <b>“Shaping the future through intelligent digital experiences.”</b><br />
+  — by Shaafie Shire
 </p>
