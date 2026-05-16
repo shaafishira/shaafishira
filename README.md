@@ -10,7 +10,9 @@
 
 ## 👋 Who Am I?
 I’m Shaafici — someone deeply driven by the idea of building technology that feels simple for people, yet powerful behind the scenes.
+
 My journey is centered around modern web experiences, AI-powered systems, digital business tools, and products designed to solve real-world problems in a practical way. I enjoy exploring how design, automation, and intelligent systems can work together to create smoother experiences for businesses and everyday users.
+
 Through Barwaaqso, I’m focused on learning, building, and shaping ideas that combine technology, creativity, and scalable digital solutions for the modern world.
 
 - 🤖 **AI-Powered Systems**
